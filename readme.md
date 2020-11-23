@@ -7,4 +7,4 @@ Aqui se encontram os trabalhos propostos durante o segundo semestre de 2020 na d
 
     https://balbertini.github.io/pages/vhdl-pt_BR.html - site do professor Bruno Albertini sobre VHDL. Vou ser sincero, quando eu estava começando eu não achei o material do site bom, então eu recorri a outras fontes para entender melhor, maaas depois que eu ja estava bem com a matéria, o site me ajudou bastante nos trabalhos, principalmente como fonte de consulta.
 
-
+Um último adendo, teve um trabalho a mais no final de semestre, que era para construir um mini processador, que eu não fiz, pois não era obrigatório (final de semestre é complicado). É isso, boa sorte em qualquer coisa que você esteja fazendo.
