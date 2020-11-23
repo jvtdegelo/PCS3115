@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>1</version>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>J0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="40" y="-40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>J1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="40" y="0"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>S0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="360" y="20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Or</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="60" y="-40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Or</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="160" y="-20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Or</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="260" y="0"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>J2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="40" y="40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>J3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="40" y="80"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>EN0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="40" y="-120"/>
+    </visualElement>
+  </visualElements>
+  <wires>
+    <wire>
+      <p1 x="40" y="0"/>
+      <p2 x="60" y="0"/>
+    </wire>
+    <wire>
+      <p1 x="240" y="0"/>
+      <p2 x="260" y="0"/>
+    </wire>
+    <wire>
+      <p1 x="40" y="80"/>
+      <p2 x="220" y="80"/>
+    </wire>
+    <wire>
+      <p1 x="140" y="-20"/>
+      <p2 x="160" y="-20"/>
+    </wire>
+    <wire>
+      <p1 x="140" y="20"/>
+      <p2 x="160" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="340" y="20"/>
+      <p2 x="360" y="20"/>
+    </wire>
+    <wire>
+      <p1 x="40" y="-40"/>
+      <p2 x="60" y="-40"/>
+    </wire>
+    <wire>
+      <p1 x="40" y="40"/>
+      <p2 x="140" y="40"/>
+    </wire>
+    <wire>
+      <p1 x="220" y="40"/>
+      <p2 x="260" y="40"/>
+    </wire>
+    <wire>
+      <p1 x="140" y="20"/>
+      <p2 x="140" y="40"/>
+    </wire>
+    <wire>
+      <p1 x="220" y="40"/>
+      <p2 x="220" y="80"/>
+    </wire>
+  </wires>
+  <measurementOrdering/>
+</circuit>
